@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "861636833589",
+    "firebase_url": "https://anonymousauthdemo.firebaseio.com",
+    "project_id": "anonymousauthdemo",
+    "storage_bucket": "anonymousauthdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861636833589:android:015610d5fd568af7",
+        "android_client_info": {
+          "package_name": "com.outlook.gonzasosa.code.firebaseanonymousauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861636833589-fgpkhra7m1vbq64e7ujkpa9rmomfvbvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.outlook.gonzasosa.code.firebaseanonymousauth",
+            "certificate_hash": "2b24c48ee5701ece1986fac225d4004d15efb536"
+          }
+        },
+        {
+          "client_id": "861636833589-0066g115hr4qgcl93b0mbg6q2cpr5d2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwj0g1XuAvlIXOw7s9-sc0jALPRlRhz9g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861636833589-0066g115hr4qgcl93b0mbg6q2cpr5d2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
